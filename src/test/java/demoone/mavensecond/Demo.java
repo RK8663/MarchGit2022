@@ -10,6 +10,9 @@ public class Demo {
 		System.out.println("hi()");
 		System.out.println("hi()");
 		System.out.println("hi()");
+
+		System.out.println("Person2 changes");
+		System.out.println("Person2 changes");
 	}
 	
 }
